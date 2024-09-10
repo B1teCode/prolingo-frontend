@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/prolingo-frontent/static/css/main.7be752ba.css",
-    "main.js": "/prolingo-frontent/static/js/main.bc70e36e.js",
-    "static/js/453.097a49b4.chunk.js": "/prolingo-frontent/static/js/453.097a49b4.chunk.js",
-    "static/media/header-entrance.gif": "/prolingo-frontent/static/media/header-entrance.385484871bf5c5897407.gif",
-    "static/media/fa-solid-900.ttf": "/prolingo-frontent/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
-    "static/media/fa-brands-400.ttf": "/prolingo-frontent/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
-    "static/media/fa-solid-900.woff2": "/prolingo-frontent/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
-    "static/media/fa-brands-400.woff2": "/prolingo-frontent/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
-    "static/media/fa-regular-400.ttf": "/prolingo-frontent/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
-    "static/media/fa-regular-400.woff2": "/prolingo-frontent/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
-    "static/media/logo-white.png": "/prolingo-frontent/static/media/logo-white.f003d77c2a2c7091bf1d.png",
-    "static/media/logo-white-mini.png": "/prolingo-frontent/static/media/logo-white-mini.c6bab06ea031fe5a6cec.png",
-    "static/media/fa-v4compatibility.ttf": "/prolingo-frontent/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
-    "static/media/fa-v4compatibility.woff2": "/prolingo-frontent/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
-    "index.html": "/prolingo-frontent/index.html",
-    "main.7be752ba.css.map": "/prolingo-frontent/static/css/main.7be752ba.css.map",
-    "main.bc70e36e.js.map": "/prolingo-frontent/static/js/main.bc70e36e.js.map",
-    "453.097a49b4.chunk.js.map": "/prolingo-frontent/static/js/453.097a49b4.chunk.js.map"
+    "main.css": "/prolingo-frontend/static/css/main.b1159ad3.css",
+    "main.js": "/prolingo-frontend/static/js/main.7437f7e3.js",
+    "static/js/453.097a49b4.chunk.js": "/prolingo-frontend/static/js/453.097a49b4.chunk.js",
+    "static/media/header-entrance.gif": "/prolingo-frontend/static/media/header-entrance.385484871bf5c5897407.gif",
+    "static/media/fa-solid-900.ttf": "/prolingo-frontend/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/fa-brands-400.ttf": "/prolingo-frontend/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
+    "static/media/fa-solid-900.woff2": "/prolingo-frontend/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
+    "static/media/fa-brands-400.woff2": "/prolingo-frontend/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
+    "static/media/fa-regular-400.ttf": "/prolingo-frontend/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/fa-regular-400.woff2": "/prolingo-frontend/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/logo-white.png": "/prolingo-frontend/static/media/logo-white.f003d77c2a2c7091bf1d.png",
+    "static/media/logo-white-mini.png": "/prolingo-frontend/static/media/logo-white-mini.c6bab06ea031fe5a6cec.png",
+    "static/media/fa-v4compatibility.ttf": "/prolingo-frontend/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/fa-v4compatibility.woff2": "/prolingo-frontend/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
+    "index.html": "/prolingo-frontend/index.html",
+    "main.b1159ad3.css.map": "/prolingo-frontend/static/css/main.b1159ad3.css.map",
+    "main.7437f7e3.js.map": "/prolingo-frontend/static/js/main.7437f7e3.js.map",
+    "453.097a49b4.chunk.js.map": "/prolingo-frontend/static/js/453.097a49b4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7be752ba.css",
-    "static/js/main.bc70e36e.js"
+    "static/css/main.b1159ad3.css",
+    "static/js/main.7437f7e3.js"
   ]
 }
