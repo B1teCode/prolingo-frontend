@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/prolingo-frontend/static/css/main.b1159ad3.css",
-    "main.js": "/prolingo-frontend/static/js/main.7437f7e3.js",
+    "main.css": "/prolingo-frontend/static/css/main.97f7183b.css",
+    "main.js": "/prolingo-frontend/static/js/main.7fbae2cc.js",
     "static/js/453.097a49b4.chunk.js": "/prolingo-frontend/static/js/453.097a49b4.chunk.js",
     "static/media/header-entrance.gif": "/prolingo-frontend/static/media/header-entrance.385484871bf5c5897407.gif",
     "static/media/fa-solid-900.ttf": "/prolingo-frontend/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
@@ -15,12 +15,12 @@
     "static/media/fa-v4compatibility.ttf": "/prolingo-frontend/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
     "static/media/fa-v4compatibility.woff2": "/prolingo-frontend/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
     "index.html": "/prolingo-frontend/index.html",
-    "main.b1159ad3.css.map": "/prolingo-frontend/static/css/main.b1159ad3.css.map",
-    "main.7437f7e3.js.map": "/prolingo-frontend/static/js/main.7437f7e3.js.map",
+    "main.97f7183b.css.map": "/prolingo-frontend/static/css/main.97f7183b.css.map",
+    "main.7fbae2cc.js.map": "/prolingo-frontend/static/js/main.7fbae2cc.js.map",
     "453.097a49b4.chunk.js.map": "/prolingo-frontend/static/js/453.097a49b4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b1159ad3.css",
-    "static/js/main.7437f7e3.js"
+    "static/css/main.97f7183b.css",
+    "static/js/main.7fbae2cc.js"
   ]
 }
