@@ -1,0 +1,150 @@
+/* Основные стили формы */
+.feedback-form {
+    width: 100%;
+    max-width: 680px;
+    padding: 20px;
+    border-radius: 12px;
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    margin: 0 auto;
+    font-family: "Exo 2", sans-serif;
+    padding-top: 80px;
+  }
+  
+  .form-heading {
+    font-weight: bold;
+    margin-bottom: 30px;
+    color: #333;
+    text-align: center;
+  }
+  
+  .form-group {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .form-group label {
+    font-size: 14px;
+    margin-bottom: 4px;
+    color: #555;
+    text-align: left;
+  }
+  
+  .form-group input[type="text"],
+  .form-group input[type="tel"],
+  .form-group textarea {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 24px;
+    outline: none;
+    font-size: 14px;
+    transition: border-color 0.3s ease;
+  }
+  
+  .fg{
+    width: 50%;
+  }
+  .form-group input[type="text"]:focus,
+  .form-group input[type="tel"]:focus,
+  .form-group textarea:focus {
+    border-color: #5680e9;
+  }
+  .form-flex{
+    display: flex;
+    width: 100%;
+    margin: auto;
+    justify-content: space-between;
+    gap: 40px;
+  }
+  .fgt{
+    width: 100%;
+    margin: auto;
+  }
+  .agreement {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 18px;
+  }
+  
+  .agreement input[type="checkbox"] {
+    width: 16px;
+    height: 16px;
+    border-radius: 4px;
+    cursor: pointer;
+    accent-color: #8860d0;
+  }
+  
+  .submit-button {
+    padding: 10px;
+    border: none;
+    border-radius: 24px;
+    background-color: #8860d0;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .submit-button:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+  }
+  
+  .submit-button:hover:enabled {
+    background-color: #8860d0;
+  }
+  
+  /* Адаптивность */
+  @media (max-width: 768px) {
+    .feedback-form {
+      padding: 80px 15px 15px;
+    }
+  
+    .form-heading {
+      text-align:left;
+    }
+  
+    .form-group input[type="text"],
+    .form-group input[type="tel"] {
+      font-size: 13px;
+    }
+  
+    .submit-button {
+      font-size: 15px;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .feedback-form {
+      padding: 70px 15px 15px;
+    }
+  
+    .form-heading {
+      text-align: left;
+    }
+  
+    .form-group input[type="text"],
+    .form-group input[type="tel"] {
+      padding: 8px;
+      font-size: 12px;
+    }
+  
+    .submit-button {
+      padding: 8px;
+      font-size: 14px;
+    }
+    .form-flex{
+        flex-direction: column;
+        gap: 15px;
+    }
+    .fg{
+        width: 100%;
+    }
+    .agreement label{
+        font-size: 12px;
+    }
+  }
+  
