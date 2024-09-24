@@ -1,26 +1,25 @@
 {
   "files": {
-    "main.css": "/prolingo-frontend/static/css/main.97f7183b.css",
-    "main.js": "/prolingo-frontend/static/js/main.8e489200.js",
+    "main.css": "/prolingo-frontend/static/css/main.83c1f86a.css",
+    "main.js": "/prolingo-frontend/static/js/main.5a59a189.js",
     "static/js/453.097a49b4.chunk.js": "/prolingo-frontend/static/js/453.097a49b4.chunk.js",
-    "static/media/header-entrance.gif": "/prolingo-frontend/static/media/header-entrance.385484871bf5c5897407.gif",
+    "static/media/about-logo2.png": "/prolingo-frontend/static/media/about-logo2.c32656aa1b505b71dbaf.png",
     "static/media/fa-solid-900.ttf": "/prolingo-frontend/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
     "static/media/fa-brands-400.ttf": "/prolingo-frontend/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
     "static/media/fa-solid-900.woff2": "/prolingo-frontend/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
     "static/media/fa-brands-400.woff2": "/prolingo-frontend/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
+    "static/media/header-entrance.png": "/prolingo-frontend/static/media/header-entrance.af7126407089aa73e519.png",
     "static/media/fa-regular-400.ttf": "/prolingo-frontend/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
     "static/media/fa-regular-400.woff2": "/prolingo-frontend/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
-    "static/media/logo-white.png": "/prolingo-frontend/static/media/logo-white.f003d77c2a2c7091bf1d.png",
-    "static/media/logo-white-mini.png": "/prolingo-frontend/static/media/logo-white-mini.c6bab06ea031fe5a6cec.png",
     "static/media/fa-v4compatibility.ttf": "/prolingo-frontend/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
     "static/media/fa-v4compatibility.woff2": "/prolingo-frontend/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
     "index.html": "/prolingo-frontend/index.html",
-    "main.97f7183b.css.map": "/prolingo-frontend/static/css/main.97f7183b.css.map",
-    "main.8e489200.js.map": "/prolingo-frontend/static/js/main.8e489200.js.map",
+    "main.83c1f86a.css.map": "/prolingo-frontend/static/css/main.83c1f86a.css.map",
+    "main.5a59a189.js.map": "/prolingo-frontend/static/js/main.5a59a189.js.map",
     "453.097a49b4.chunk.js.map": "/prolingo-frontend/static/js/453.097a49b4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.97f7183b.css",
-    "static/js/main.8e489200.js"
+    "static/css/main.83c1f86a.css",
+    "static/js/main.5a59a189.js"
   ]
 }
